@@ -1,53 +1,53 @@
 # > 微博
-HOST-KEYWORD,fastimage.uve.weibo.com, wbfl
-HOST-KEYWORD,adimg.uve.weibo.com, wbfl
-HOST-SUFFIX,adimg.vue.weibo.com, wbfl
-HOST-SUFFIX,zymo.mps.weibo.com, wbfl
-HOST-SUFFIX,weibomingzi.com, wbfl
-HOST-SUFFIX,sdkapp.uve.weibo.com, wbfl
-HOST-SUFFIX,s.alitui.weibo.com, wbfl
-HOST-SUFFIX,promote.biz.weibo.cn, wbfl
-HOST-SUFFIX,gw5.push.mcp.weibo.cn, wbfl
-HOST-SUFFIX,game.weibo.cn, wbfl
-HOST-SUFFIX,biz.weibo.com, wbfl
-HOST-SUFFIX,adimg.uve.weibo.com, wbfl
-HOST-SUFFIX,game.weibo.com, wbfl
-HOST-SUFFIX,gw6.push.mcp.weibo.cn, wbfl
-HOST-KEYWORD,ads.viber.com, wbfl
-HOST-KEYWORD,ads-d.viber.com, wbfl
-HOST-KEYWORD,ads.aws.viber.com, wbfl
-HOST-SUFFIX,alitui.weibo.com, wbfl
-HOST,adimg.uve.weibo.com, wbfl
-HOST,adimg.vue.weibo.com, wbfl
-HOST-KEYWORD,adimg.uve.weibo.com,wbfl
-HOST-KEYWORD,alitui.weibo.com,wbfl
-HOST-KEYWORD,biz.weibo.com,wbfl
-HOST-KEYWORD,game.weibo.cn,wbfl
-HOST-KEYWORD,game.weibo.com,wbfl
-HOST-KEYWORD,gw5.push.mcp.weibo.cn,wbfl
-HOST-KEYWORD,gw6.push.mcp.weibo.cn,wbfl
-HOST-KEYWORD,promote.biz.weibo.cn,wbfl
-HOST-KEYWORD,s.alitui.weibo.com,wbfl
-HOST-KEYWORD,sdkapp.uve.weibo.com,wbfl
-HOST-KEYWORD,weibomingzi.com,wbfl
-HOST-KEYWORD,zymo.mps.weibo.com,wbfl
-HOST-KEYWORD,adimg.vue.weibo.com,wbfl
-HOST-KEYWORD,dp.im.weibo.cn,wbfl
-HOST-KEYWORD,m.game.weibo.cn,wbfl
-HOST-KEYWORD,c.biz.weibo.com,wbfl
-HOST-KEYWORD,c.wcpt.biz.weibo.com,wbfl
-HOST-KEYWORD,click.uve.weibo.com,wbfl
-HOST-KEYWORD,wax.weibo.com,wbfl
-HOST-KEYWORD,wbapp.uve.weibo.com,wbfl
-HOST-KEYWORD,widget.weibo.com,wbfl
-HOST-KEYWORD,zc.biz.weibo.com,wbfl
-HOST-KEYWORD,dsp.edm.weibo.cn,wbfl
-HOST-KEYWORD,alitui.weibo.com.cn,wbfl
-HOST-KEYWORD,biz.weibo.com.cn,wbfl
-HOST-KEYWORD,game.weibo.com.cn,wbfl
-HOST-KEYWORD,tui.weibo.com,wbfl
-HOST-KEYWORD,wax.weibo.com.cn,wbfl
-HOST-KEYWORD,ad.weibo.com,wbfl
-HOST-KEYWORD,adstrategy.biz.weibo.com,wbfl
-HOST-KEYWORD,s.weibo.com,wbfl
-HOST-KEYWORD,vs.biz.weibo.com,wbfl
+HOST-KEYWORD,fastimage.uve.weibo.com, PROXY
+HOST-KEYWORD,adimg.uve.weibo.com, PROXY
+HOST-SUFFIX,adimg.vue.weibo.com, PROXY
+HOST-SUFFIX,zymo.mps.weibo.com, PROXY
+HOST-SUFFIX,weibomingzi.com, PROXY
+HOST-SUFFIX,sdkapp.uve.weibo.com, PROXY
+HOST-SUFFIX,s.alitui.weibo.com, PROXY
+HOST-SUFFIX,promote.biz.weibo.cn, PROXY
+HOST-SUFFIX,gw5.push.mcp.weibo.cn, PROXY
+HOST-SUFFIX,game.weibo.cn, PROXY
+HOST-SUFFIX,biz.weibo.com, PROXY
+HOST-SUFFIX,adimg.uve.weibo.com, PROXY
+HOST-SUFFIX,game.weibo.com, PROXY
+HOST-SUFFIX,gw6.push.mcp.weibo.cn, PROXY
+HOST-KEYWORD,ads.viber.com, PROXY
+HOST-KEYWORD,ads-d.viber.com, PROXY
+HOST-KEYWORD,ads.aws.viber.com, PROXY
+HOST-SUFFIX,alitui.weibo.com, PROXY
+HOST,adimg.uve.weibo.com, PROXY
+HOST,adimg.vue.weibo.com, PROXY
+HOST-KEYWORD,adimg.uve.weibo.com,PROXY
+HOST-KEYWORD,alitui.weibo.com,PROXY
+HOST-KEYWORD,biz.weibo.com,PROXY
+HOST-KEYWORD,game.weibo.cn,PROXY
+HOST-KEYWORD,game.weibo.com,PROXY
+HOST-KEYWORD,gw5.push.mcp.weibo.cn,PROXY
+HOST-KEYWORD,gw6.push.mcp.weibo.cn,PROXY
+HOST-KEYWORD,promote.biz.weibo.cn,PROXY
+HOST-KEYWORD,s.alitui.weibo.com,PROXY
+HOST-KEYWORD,sdkapp.uve.weibo.com,PROXY
+HOST-KEYWORD,weibomingzi.com,PROXY
+HOST-KEYWORD,zymo.mps.weibo.com,PROXY
+HOST-KEYWORD,adimg.vue.weibo.com,PROXY
+HOST-KEYWORD,dp.im.weibo.cn,PROXY
+HOST-KEYWORD,m.game.weibo.cn,PROXY
+HOST-KEYWORD,c.biz.weibo.com,PROXY
+HOST-KEYWORD,c.wcpt.biz.weibo.com,PROXY
+HOST-KEYWORD,click.uve.weibo.com,PROXY
+HOST-KEYWORD,wax.weibo.com,PROXY
+HOST-KEYWORD,wbapp.uve.weibo.com,PROXY
+HOST-KEYWORD,widget.weibo.com,PROXY
+HOST-KEYWORD,zc.biz.weibo.com,PROXY
+HOST-KEYWORD,dsp.edm.weibo.cn,PROXY
+HOST-KEYWORD,alitui.weibo.com.cn,PROXY
+HOST-KEYWORD,biz.weibo.com.cn,PROXY
+HOST-KEYWORD,game.weibo.com.cn,PROXY
+HOST-KEYWORD,tui.weibo.com,PROXY
+HOST-KEYWORD,wax.weibo.com.cn,PROXY
+HOST-KEYWORD,ad.weibo.com,PROXY
+HOST-KEYWORD,adstrategy.biz.weibo.com,PROXY
+HOST-KEYWORD,s.weibo.com,PROXY
+HOST-KEYWORD,vs.biz.weibo.com,PROXY
