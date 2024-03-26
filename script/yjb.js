@@ -1,7 +1,7 @@
 var body = $response.body;
 var obj = JSON.parse(body);
 
-obj['data']['nickname'] = 1;
+obj['data']['nickname'] = "1";
 obj['data']['subscribe_status'] = 1;
 obj['data']['vip_label'] = true;
 obj['data']['is_pay'] = true;
