@@ -1,0 +1,17 @@
+DOMAIN-SUFFIX,config.cmpassport.com,REJECT
+DOMAIN-SUFFIX,www.cmpassport.com,REJECT
+DOMAIN-SUFFIX,wap.cmpassport.com,REJECT
+DOMAIN-SUFFIX,onekey1.cmpassport.com,REJECT
+DOMAIN-SUFFIX,log1.cmpassport.com,REJECT
+DOMAIN-SUFFIX,smsks1.cmpassport.com,REJECT
+DOMAIN-SUFFIX,verify.cmpassport.com,REJECT
+DOMAIN-SUFFIX,opencloud.wostore.cn,REJECT
+DOMAIN-SUFFIX,auth.wosms.cn,REJECT
+DOMAIN-SUFFIX,id.mail.wo.cn,REJECT
+DOMAIN-SUFFIX,mdn.open.wo.cn,REJECT
+DOMAIN-SUFFIX,hmrz.wo.cn,REJECT
+DOMAIN-SUFFIX,nishub1.10010.com,REJECT
+DOMAIN-SUFFIX,enrichgw.10010.com,REJECT
+DOMAIN-SUFFIX,id6.me,REJECT
+DOMAIN-SUFFIX,open.e.189.cn,REJECT
+DOMAIN-SUFFIX,ye.dun.163yun.com,REJECT
