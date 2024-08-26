@@ -1,0 +1,28 @@
+#!name=Activation Script
+#!desc=Activate your software by interceping the activation process - @wibus-wee
+
+
+[MITM]
+hostname =  as.as, api.lemonsqueezy.com, v3.paddleapi.com, api.gumroad.com, backend.raycast.com, shottr.cc, api.cleanshot.cloud
+
+
+
+[Script]
+activation-script-dashboard = type=http-request,pattern=^https://as.as/,requires-body=1,max-size=0,script-path=activator.js
+dashboard-test-as.as = type=http-request,pattern=^http://as.as/test,requires-body=1,max-size=0,debug=1,script-path=activator.js
+dashboard--as.as = type=http-request,pattern=^http://as.as/,requires-body=1,max-size=0,debug=1,script-path=activator.js
+lemonSqueezy-activate-api.lemonsqueezy.com = type=http-request,pattern=^https://api.lemonsqueezy.com/v1/licenses/activate,requires-body=1,max-size=0,debug=1,script-path=activator.js
+lemonSqueezy-validate-api.lemonsqueezy.com = type=http-request,pattern=^https://api.lemonsqueezy.com/v1/licenses/validate,requires-body=1,max-size=0,debug=1,script-path=activator.js
+paddle-activate-v3.paddleapi.com = type=http-request,pattern=^https://v3.paddleapi.com/3.2/license/activate,requires-body=1,max-size=0,debug=1,script-path=activator.js
+paddle-validate-v3.paddleapi.com = type=http-request,pattern=^https://v3.paddleapi.com/3.2/license/verify,requires-body=1,max-size=0,debug=1,script-path=activator.js
+gumroad-validate-api.gumroad.com = type=http-request,pattern=^https://api.gumroad.com/v2/licenses/verify,requires-body=1,max-size=0,debug=1,script-path=activator.js
+raycast-activate-backend.raycast.com = type=http-response,pattern=^https://backend.raycast.com/api/v1/me,requires-body=1,max-size=0,debug=1,script-path=activator.js
+raycast-translations-backend.raycast.com = type=http-request,pattern=^https://backend.raycast.com/api/v1/translations,requires-body=1,max-size=0,debug=1,script-path=activator.js
+raycast-me/trial_status-backend.raycast.com = type=http-request,pattern=^https://backend.raycast.com/api/v1/me/trial_status,requires-body=1,max-size=0,debug=1,script-path=activator.js
+raycast-me/sync-backend.raycast.com = type=http-request,pattern=^https://backend.raycast.com/api/v1/me/sync,requires-body=1,max-size=0,debug=1,script-path=activator.js
+raycast-ai/models-backend.raycast.com = type=http-request,pattern=^https://backend.raycast.com/api/v1/ai/models,requires-body=1,max-size=0,debug=1,script-path=activator.js
+raycast-ai/chat_completions-backend.raycast.com = type=http-request,pattern=^https://backend.raycast.com/api/v1/ai/chat_completions,requires-body=1,max-size=0,debug=1,script-path=activator.js
+shottr-validate-shottr.cc = type=http-request,pattern=^https://shottr.cc/licensing/verify.php,requires-body=1,max-size=0,debug=1,script-path=activator.js
+shottr-api/telemetry.php-shottr.cc = type=http-request,pattern=^https://shottr.cc/api/telemetry.php,requires-body=1,max-size=0,debug=1,script-path=activator.js
+cleanshot-user-api.cleanshot.cloud = type=http-request,pattern=^https://api.cleanshot.cloud/v1/user,requires-body=1,max-size=0,debug=1,script-path=activator.js
+
